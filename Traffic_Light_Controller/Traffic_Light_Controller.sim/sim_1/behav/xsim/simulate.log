@@ -1,0 +1,10 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+----------------------------------------------
+------------------     -----------------------
+----------- SIMULATION RESULT ----------------
+--------------             -------------------
+----------------         ---------------------
+----------------------------------------------
+TIME =                    0, reset = 0, sensor = 0, light of highway = 1, light of farm road = 4
+TIME =                   20, reset = 1, sensor = 0, light of highway = 1, light of farm road = 4
